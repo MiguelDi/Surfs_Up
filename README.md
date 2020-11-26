@@ -39,10 +39,11 @@ December.  This may have some effect on what are the exact statistics for the mo
   - Although the numbers were not included in this report.  The addition of tourism numbers as well as surfing statistics could provide a clearer picture of the risk of opening a business in this category.
   - In addition to the above queries,  I have also provided below two additional queries based on precipitation for June and December for the years 2010 to 2017.  
 
-#### December Precipitation
-![](Resources/Dec_Prcp.png)
 
 
 #### June Precipitation
 ![](Resources/June_prcp.png)
+
+#### December Precipitation
+![](Resources/Dec_Prcp.png)
 
