@@ -43,4 +43,3 @@ December.  This may have some effect on what are the exact statistics for the mo
 ![](Resources/June_prcp.png)
 
 #### December Precipitation
-![](Resources/Dec_prcp.png)
