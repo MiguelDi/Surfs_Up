@@ -40,7 +40,7 @@ December.  This may have some effect on what are the exact statistics for the mo
   - In addition to the above queries,  I have also provided below two additional queries based on precipitation for June and December for the years 2010 to 2017.  
 
 #### December Precipitation
-![](Resources/Dec_prcp.png)
+![](Resources/Dec_Prcp.png)
 
 
 #### June Precipitation
